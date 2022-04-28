@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital@1&family=Lato:wght@300&display=swap");
+
+h1 {
+
+  font-size: 60px;
+  text-align: center;
+  color:paleturquoise;
+  font-family: lato-karla;
+  font-style:initial;
+  text-shadow:5px 5px 6px dodgerblue;
+}
+
